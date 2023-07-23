@@ -1,5 +1,5 @@
 # Leftover
-Some code utilities used during my studies.
+Some code utilities used during my studies or just for training
 
 "split-crypto.py" : 
 
