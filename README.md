@@ -11,6 +11,6 @@ Some code utilities used during my studies or just for training
 
 "broke_hash.py"
 
-  Before : dl the rockyou.txt file on github
+  Before : dl the rockyou.txt file on github and take the file 'hash_password' here.
   Description : Used to break password hash by performing a comparison with passwords from rockyou.txt file
   Look the name of your files before to use it.
